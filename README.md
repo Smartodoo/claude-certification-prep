@@ -11,7 +11,7 @@ plan that follows the weights instead of the table of contents.
 
 ## The four certifications at a glance
 
-| Code | Certification | Who it is for | Questions | Time | Exam fee (USD) |
+| Code | Certification | Who it is for | Questions | Time | Official exam fee (USD, per attempt) |
 |---|---|---|---|---|---|
 | **CCAO-F** | Claude Certified Associate – Foundations | People who use Claude in their work without writing code: consultants, analysts, project leads, operations, legal, marketing | 60 | 120 min | $99 |
 | **CCDV-F** | Claude Certified Developer – Foundations | Engineers building applications on the Claude API, tool use and agents | 53 | 120 min | $125 |
@@ -20,8 +20,9 @@ plan that follows the weights instead of the table of contents.
 
 Common to all four *(exam guide v1.0, July 2026)*:
 
-- The exam fee above is what Pearson VUE charges per attempt when you register for the exam. It is
-  separate from any course or study material.
+- The fee in the table is the **real exam fee** for Anthropic's certification exam, charged by
+  Pearson VUE when you register: $99 for CCAO-F, $125 for CCDV-F and CCAR-F, $175 for CCAR-P. It
+  has nothing to do with the price of any course or study material.
 
 - Scenario-based multiple-choice items: judgment, not recall.
 - Scaled score 100–1,000, **pass mark 720**.
@@ -195,7 +196,8 @@ the people who approve it. Advanced level: it assumes you have shipped with an L
 
 I built one complete prep course per certification on Udemy: every domain of the exam guide, one
 short video per topic, practice quizzes per module and a full-length timed practice exam. Free
-two-minute overviews are on YouTube.
+two-minute overviews are on YouTube. The course price is set on Udemy (and often discounted there);
+it is separate from the exam fee above.
 
 | Certification | Udemy course | Overview video |
 |---|---|---|
