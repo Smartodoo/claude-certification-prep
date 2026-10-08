@@ -2,7 +2,8 @@
 
 A community study guide for Anthropic's four **Claude certifications**: what each exam tests, how
 the domains are weighted, where the official documentation for each domain lives, and a preparation
-plan that follows the weights instead of the table of contents.
+plan that follows the weights instead of the table of contents. For each exam there is also a complete
+video prep course on Udemy (see [the courses](#our-udemy-prep-courses) below).
 
 > Independent and unofficial. Not affiliated with or endorsed by Anthropic. Exam names and codes
 > belong to Anthropic. Figures marked *(exam guide v1.0, July 2026)* are taken from the official
@@ -60,6 +61,12 @@ optional. Expect scenarios about choosing between Haiku, Sonnet and Opus for a t
 Project versus a one-off chat, what belongs in project instructions versus a prompt, and which
 kinds of data must never be pasted into a chat.
 
+### Prep course
+
+**Udemy: Claude Certified Associate (CCAO-F) exam prep** — 66 lectures, 7 quizzes, 60-question practice exam, one short video per topic, built on this domain table:
+https://www.udemy.com/course/claude-associate-certification-complete-exam-prep-course/?referralCode=573675328E3CCF9C52E1
+Free 2-minute overview: https://www.youtube.com/watch?v=0Kbcxm0-IPg
+
 ### Official documentation by domain
 
 - Models and how to choose: https://docs.claude.com/en/docs/about-claude/models/overview
@@ -93,6 +100,12 @@ when a stream drops in the middle of a tool call. Model selection and optimizati
 pinning a model version) is the second block. Claude Code and evaluation are small on paper, but
 the agent and tool-use questions assume you know how they work in practice. Every item is a
 scenario: "a team sees X, what should they change first?"
+
+### Prep course
+
+**Udemy: Claude Certified Developer (CCDV-F) exam prep** — 103 lectures, 19 quizzes, 50-question practice exam, one short video per topic, built on this domain table:
+https://www.udemy.com/course/claude-developer-certification-complete-exam-prep-course/?referralCode=B6A3E536B7AD1215D394
+Free 2-minute overview: https://www.youtube.com/watch?v=wTKR9R21DHc
 
 ### Official documentation by domain
 
@@ -130,6 +143,12 @@ to design a tool's schema and description so the model uses it correctly, what g
 checkpoints, structured output with validation). One trap: the exam guide names the subagent tool
 "Task", and current documentation calls it "Agent". Know both names.
 
+### Prep course
+
+**Udemy: Claude Certified Architect Foundations (CCAR-F) exam prep** — 31 lectures, 5 domain quizzes, 60-question timed practice exam, one short video per topic, built on this domain table:
+https://www.udemy.com/course/claude-architect-foundations-complete-exam-prep-course/?referralCode=82CFCB4426395545BF28
+Free 2-minute overview: https://www.youtube.com/watch?v=nidWjRrBVzM
+
 ### Official documentation by domain
 
 - Building agents and orchestration: https://docs.claude.com/en/docs/agents-and-tools/overview
@@ -165,6 +184,12 @@ so long that reviewers approve without reading, a cost model that was never chec
 first invoice. You are asked what an architect should change, in what order, and how to explain it to
 the people who approve it. Advanced level: it assumes you have shipped with an LLM API.
 
+### Prep course
+
+**Udemy: Claude Certified Architect Professional (CCAR-P) exam prep** — 103 lectures, 28 quizzes, 63-question timed practice exam, one short video per topic, built on this domain table:
+https://www.udemy.com/course/claude-architect-professional-complete-exam-prep-course/?referralCode=D83564EB7F3969CD739E
+Free 2-minute overview: https://www.youtube.com/watch?v=Dqmsi7wNkN8
+
 ### Official documentation by domain
 
 - Everything listed under CCAR-F, plus:
@@ -192,7 +217,7 @@ the people who approve it. Advanced level: it assumes you have shipped with an L
 5. **Keep a list of version-sensitive facts** (model names, context sizes, tool names like
    Task/Agent) and re-check them the week before the exam.
 
-## Video courses that follow this guide
+## Our Udemy prep courses
 
 I built one complete prep course per certification on Udemy: every domain of the exam guide, one
 short video per topic, practice quizzes per module and a full-length timed practice exam. Free
@@ -206,8 +231,16 @@ it is separate from the exam fee above.
 | CCAR-F Architect Foundations | https://www.udemy.com/course/claude-architect-foundations-complete-exam-prep-course/?referralCode=82CFCB4426395545BF28 | https://www.youtube.com/watch?v=nidWjRrBVzM |
 | CCAR-P Architect Professional | https://www.udemy.com/course/claude-architect-professional-complete-exam-prep-course/?referralCode=D83564EB7F3969CD739E | https://www.youtube.com/watch?v=Dqmsi7wNkN8 |
 
-Also available in French and Spanish (all four), and the Associate course in Portuguese, Hindi,
-Korean and Italian: see the YouTube channel https://www.youtube.com/@ClaudeCertPrep.
+Other languages (same slides, narration and subtitles translated):
+
+| Course | French | Spanish | Other |
+|---|---|---|---|
+| CCAO-F Associate | https://www.udemy.com/course/certification-claude-associate-preparation-complete/?referralCode=25A7A1A2F5739B5A7D9A | https://www.udemy.com/course/certificacion-claude-associate-preparacion-completa/?referralCode=C56ECFA80736DCE36673 | Portuguese https://www.udemy.com/course/certificacao-claude-associate-preparacao-completa/?referralCode=7C9B5E2B3E2A4410153F · Hindi https://www.udemy.com/course/claude-associate-g/?referralCode=2ED1E8C5B39FC4E1768F · Korean https://www.udemy.com/course/claude-associate-certification-korean-exam-prep/?referralCode=F4803690ACBC896D9E59 |
+| CCDV-F Developer | https://www.udemy.com/course/certification-claude-developpeur-preparation-complete/?referralCode=76802B8C5E998D806E50 | https://www.udemy.com/course/certificacion-claude-developer-preparacion-completa/?referralCode=485D749CB1E93AEA5629 | |
+| CCAR-F Architect Foundations | https://www.udemy.com/course/certification-claude-architect-foundations-prepa-complete/?referralCode=9B799AE92C8F5B7B0203 | https://www.udemy.com/course/certificacion-claude-architect-foundations-curso-en-espanol/?referralCode=3B92E21E83E2C4C5CDF1 | |
+| CCAR-P Architect Professional | coming soon | https://www.udemy.com/course/certificacion-claude-architect-pro-preparacion-completa/?referralCode=A37490BD9B79E0D07340 | |
+
+YouTube channel with all the overview videos: https://www.youtube.com/@ClaudeCertPrep
 
 ## Contributing
 
