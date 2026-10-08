@@ -11,7 +11,7 @@ plan that follows the weights instead of the table of contents.
 
 ## The four certifications at a glance
 
-| Code | Certification | Who it is for | Questions | Time | Price (USD) |
+| Code | Certification | Who it is for | Questions | Time | Exam fee (USD) |
 |---|---|---|---|---|---|
 | **CCAO-F** | Claude Certified Associate – Foundations | People who use Claude in their work without writing code: consultants, analysts, project leads, operations, legal, marketing | 60 | 120 min | $99 |
 | **CCDV-F** | Claude Certified Developer – Foundations | Engineers building applications on the Claude API, tool use and agents | 53 | 120 min | $125 |
@@ -20,7 +20,10 @@ plan that follows the weights instead of the table of contents.
 
 Common to all four *(exam guide v1.0, July 2026)*:
 
-- Scenario-based multiple-choice items; judgment, not recall.
+- The exam fee above is what Pearson VUE charges per attempt when you register for the exam. It is
+  separate from any course or study material.
+
+- Scenario-based multiple-choice items: judgment, not recall.
 - Scaled score 100–1,000, **pass mark 720**.
 - Proctored and identity-verified through Pearson VUE (online or test centre).
 - Credential valid for **12 months**.
