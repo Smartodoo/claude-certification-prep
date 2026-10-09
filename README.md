@@ -65,7 +65,7 @@ kinds of data must never be pasted into a chat.
 
 **Udemy: Claude Certified Associate (CCAO-F) exam prep** — 66 lectures, 7 quizzes, 60-question practice exam, one short video per topic, built on this domain table:
 https://www.udemy.com/course/claude-associate-certification-complete-exam-prep-course/?referralCode=573675328E3CCF9C52E1
-Free 2-minute overview: https://www.youtube.com/watch?v=0Kbcxm0-IPg
+Free 2-minute overview: https://www.youtube.com/watch?v=qI5i_N5smzI
 
 ### Official documentation by domain
 
@@ -105,7 +105,7 @@ scenario: "a team sees X, what should they change first?"
 
 **Udemy: Claude Certified Developer (CCDV-F) exam prep** — 103 lectures, 19 quizzes, 50-question practice exam, one short video per topic, built on this domain table:
 https://www.udemy.com/course/claude-developer-certification-complete-exam-prep-course/?referralCode=B6A3E536B7AD1215D394
-Free 2-minute overview: https://www.youtube.com/watch?v=wTKR9R21DHc
+Free 2-minute overview: https://www.youtube.com/watch?v=58khpZ2UlrA
 
 ### Official documentation by domain
 
@@ -147,7 +147,7 @@ checkpoints, structured output with validation). One trap: the exam guide names 
 
 **Udemy: Claude Certified Architect Foundations (CCAR-F) exam prep** — 31 lectures, 5 domain quizzes, 60-question timed practice exam, one short video per topic, built on this domain table:
 https://www.udemy.com/course/claude-architect-foundations-complete-exam-prep-course/?referralCode=82CFCB4426395545BF28
-Free 2-minute overview: https://www.youtube.com/watch?v=nidWjRrBVzM
+Free 2-minute overview: https://www.youtube.com/watch?v=ZSo1W1ys1ps
 
 ### Official documentation by domain
 
@@ -188,7 +188,7 @@ the people who approve it. Advanced level: it assumes you have shipped with an L
 
 **Udemy: Claude Certified Architect Professional (CCAR-P) exam prep** — 103 lectures, 28 quizzes, 63-question timed practice exam, one short video per topic, built on this domain table:
 https://www.udemy.com/course/claude-architect-professional-complete-exam-prep-course/?referralCode=D83564EB7F3969CD739E
-Free 2-minute overview: https://www.youtube.com/watch?v=Dqmsi7wNkN8
+Free 2-minute overview: https://www.youtube.com/watch?v=62j2q9yv1p8
 
 ### Official documentation by domain
 
@@ -226,10 +226,10 @@ it is separate from the exam fee above.
 
 | Certification | Udemy course | Overview video |
 |---|---|---|
-| CCAO-F Associate | https://www.udemy.com/course/claude-associate-certification-complete-exam-prep-course/?referralCode=573675328E3CCF9C52E1 | https://www.youtube.com/watch?v=0Kbcxm0-IPg |
-| CCDV-F Developer | https://www.udemy.com/course/claude-developer-certification-complete-exam-prep-course/?referralCode=B6A3E536B7AD1215D394 | https://www.youtube.com/watch?v=wTKR9R21DHc |
-| CCAR-F Architect Foundations | https://www.udemy.com/course/claude-architect-foundations-complete-exam-prep-course/?referralCode=82CFCB4426395545BF28 | https://www.youtube.com/watch?v=nidWjRrBVzM |
-| CCAR-P Architect Professional | https://www.udemy.com/course/claude-architect-professional-complete-exam-prep-course/?referralCode=D83564EB7F3969CD739E | https://www.youtube.com/watch?v=Dqmsi7wNkN8 |
+| CCAO-F Associate | https://www.udemy.com/course/claude-associate-certification-complete-exam-prep-course/?referralCode=573675328E3CCF9C52E1 | https://www.youtube.com/watch?v=qI5i_N5smzI |
+| CCDV-F Developer | https://www.udemy.com/course/claude-developer-certification-complete-exam-prep-course/?referralCode=B6A3E536B7AD1215D394 | https://www.youtube.com/watch?v=58khpZ2UlrA |
+| CCAR-F Architect Foundations | https://www.udemy.com/course/claude-architect-foundations-complete-exam-prep-course/?referralCode=82CFCB4426395545BF28 | https://www.youtube.com/watch?v=ZSo1W1ys1ps |
+| CCAR-P Architect Professional | https://www.udemy.com/course/claude-architect-professional-complete-exam-prep-course/?referralCode=D83564EB7F3969CD739E | https://www.youtube.com/watch?v=62j2q9yv1p8 |
 
 Other languages (same slides, narration and subtitles translated):
 
@@ -240,7 +240,7 @@ Other languages (same slides, narration and subtitles translated):
 | CCAR-F Architect Foundations | https://www.udemy.com/course/certification-claude-architect-foundations-prepa-complete/?referralCode=9B799AE92C8F5B7B0203 | https://www.udemy.com/course/certificacion-claude-architect-foundations-curso-en-espanol/?referralCode=3B92E21E83E2C4C5CDF1 | |
 | CCAR-P Architect Professional | coming soon | https://www.udemy.com/course/certificacion-claude-architect-pro-preparacion-completa/?referralCode=A37490BD9B79E0D07340 | |
 
-YouTube channel with all the overview videos: https://www.youtube.com/@ClaudeCertPrep
+YouTube channel with all the overview videos: https://www.youtube.com/@ClaudeCertPrepGuide
 
 ## Contributing
 
